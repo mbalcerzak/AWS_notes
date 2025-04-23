@@ -1,0 +1,3 @@
+- You can set up autoscaling for them
+- Can scale-up using auto-scaling to deal with high traffic (multiple copies of themselves)
+- 

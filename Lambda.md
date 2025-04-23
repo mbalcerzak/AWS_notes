@@ -1,0 +1,2 @@
+- Can have concurrency but not autoscaling (to handle multiple simultaneous requests)
+- _Lambda billing_ is based on gigabyte seconds, so you can see that more memory is sometimes cheaper if the overall execution time is substantially less
